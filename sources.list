@@ -1,0 +1,11 @@
+deb http://mirror.poliwangi.ac.id/debian buster main contrib non-free
+#deb-src http://mirror.poliwangi.ac.id/debian buster main contrib non-free
+
+deb http://mirror.poliwangi.ac.id/debian buster-updates main contrib non-free
+#deb-src http://mirror.poliwangi.ac.id/debian buster-updates main contrib non-free
+
+deb http://mirror.poliwangi.ac.id/debian buster-backports main contrib non-free
+#deb-src http://mirror.poliwangi.ac.id/debian buster-backports main contrib non-free
+
+deb http://mirror.poliwangi.ac.id/debian-security/ buster/updates main contrib non-free
+#deb-src http://mirror.poliwangi.ac.id/debian-security/ buster/updates main contrib non-free
